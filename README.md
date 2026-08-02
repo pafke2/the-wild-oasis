@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-- **Live Demo:** <a href="https://wildwildoasis.netlify.app/" target="_blank" rel="noreferrer">https://wildwildoasis.netlify.app/</a>
+- **Live Demo:** <a href="https://wildwildoasis.netlify.app" target="_blank" rel="noreferrer">https://wildwildoasis.netlify.app</a>
 
 ## ✨ Features
 
