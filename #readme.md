@@ -22,5 +22,5 @@
 - **State Management & Data Fetching:** React Query (TanStack Query)
 - **Form Handling:** React Hook Form
 - **Styling:** Styled Components, CSS Variables
-- **Backend & Auth:** Supabase (PostgreSQL, Auth, Storage buckets)
+- **Backend & Authorization:** Supabase (PostgreSQL, Auth, Storage buckets)
 - **Charts & UI Feedback:** Recharts, React Icons, React Hot Toast
