@@ -5,7 +5,6 @@
 ---
 
 <a name="english"></a>
-## 🇬🇧 English
 
 ### About
 **The Wild Oasis** is a modern web app built for hotel staff to manage bookings, cabins, and serving guests, while also tracking revenue and occupancy analytics.
@@ -35,10 +34,8 @@
 
 ---
 <a name="русский"></a>
-## 🇷🇺 Русский
 
 ### О проекте
-The Wild Oasis — это панель управления отелем, созданная на React и Supabase.
 **The Wild Oasis** — это современное веб-приложение, созданное для персонала отеля. Оно позволяет управлять бронированиями, каютами (домиками) и обслуживанием гостей, а также отслеживать аналитику доходов и загрузки отеля.
 
 ## 🚀 Демо
