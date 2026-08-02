@@ -1,5 +1,7 @@
 # 🏝️ The Wild Oasis — Hotel Management Dashboard
 
+> **Language / Язык:** [English](#english) | [Русский](#русский)
+
 **The Wild Oasis** is a modern web app built for hotel staff to manage bookings, cabins, and serving guests, while also tracking revenue and occupancy analytics.
 
 ## 🚀 Live Demo
