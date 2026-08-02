@@ -40,8 +40,7 @@
 
 ## 🚀 Демо
 
-- **Демо-версия:** <a href="[https://wildwildoasis.netlify.app/](https://the-wild-oasis-gold-eight.vercel.app)" target="_blank" rel="noreferrer">[https://wildwildoasis.netlify.app](https://the-wild-oasis-gold-eight.vercel.app)/</a>
-
+- **Демо-версия:** <a href="https://the-wild-oasis-gold-eight.vercel.app" target="_blank" rel="noreferrer">https://the-wild-oasis-gold-eight.vercel.app</a>
 ## ✨ Функциональность
 
 - 🔐 **Аутентификация и профиль:** Безопасная авторизация для сотрудников, редактирование профиля (аватар, имя, пароль).
