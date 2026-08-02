@@ -1,8 +1,26 @@
-# React + Vite
+# 🏝️ The Wild Oasis — Hotel Management Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**The Wild Oasis** is a modern web app built for hotel staff to manage bookings, cabins, and serving guests, while also tracking revenue and occupancy analytics.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Live Demo:** https://wildwildoasis.netlify.app/
+
+## ✨ Features
+
+- 🔐 **Authentication & Profile Management:** Secure login for hotel staff, profile updates (avatar, name, password).
+- 📊 **Dashboard & Analytics:** Interactive charts for sales, stay durations, and check-ins over the last 7, 30, or 90 days.
+- 📅 **Booking Management:**
+  - Filter and sort features.
+  - Check-in and check-out workflows.
+  - Payment status updates and breakfast options.
+- 🌙 **Dark Mode:** Full dark mode support.
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, React Router
+- **State Management & Data Fetching:** React Query (TanStack Query)
+- **Form Handling:** React Hook Form
+- **Styling:** Styled Components, CSS Variables
+- **Backend & Authorization:** Supabase (PostgreSQL, Auth, Storage buckets)
+- **Charts & UI Feedback:** Recharts, React Icons, React Hot Toast
