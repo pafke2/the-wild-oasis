@@ -12,7 +12,6 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.109.0",
     "@tanstack/react-query": "^4.44.0",
-    "@tanstack/react-query-devtools": "^4.29.6",
     "date-fns": "^2.30.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -25,6 +24,7 @@
     "styled-components": "^6.1.18"
   },
   "devDependencies": {
+    "@tanstack/react-query-devtools": "^4.44.0",
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
     "@vitejs/plugin-react": "^4.0.3",
