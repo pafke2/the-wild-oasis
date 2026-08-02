@@ -54,7 +54,7 @@
 ## 🛠️ Технологический стек
 
 - **Frontend:** React, React Router
-- **Управление состоянием и данными:** React Query (TanStack Query)
+- **Управление стэйтом и данными:** React Query (TanStack Query)
 - **Работа с формами:** React Hook Form
 - **Стилизация:** Styled Components, CSS Variables
 - **Backend и авторизация:** Supabase (PostgreSQL, Auth, Storage buckets)
