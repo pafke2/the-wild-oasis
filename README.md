@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-- **Live Demo:** https://wildwildoasis.netlify.app/
+- **Live Demo:** <a href="https://wildwildoasis.netlify.app/" target="_blank" rel="noreferrer">https://wildwildoasis.netlify.app/</a>
 
 ## ✨ Features
 
@@ -40,7 +40,7 @@
 
 ## 🚀 Демо
 
-- **Демо-версия:** https://the-wild-oasis-gold-eight.vercel.app
+- **Демо-версия:** <a href="[https://wildwildoasis.netlify.app/](https://the-wild-oasis-gold-eight.vercel.app)" target="_blank" rel="noreferrer">[https://wildwildoasis.netlify.app](https://the-wild-oasis-gold-eight.vercel.app)/</a>
 
 ## ✨ Функциональность
 
