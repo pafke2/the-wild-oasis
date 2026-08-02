@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-- **Live Demo:** <a href="https://wildwildoasis.netlify.app" target="_blank" rel="noreferrer">https://wildwildoasis.netlify.app</a>
+- **Live Demo:** [![Live Demo](https://img.shields.io/badge/Open_Live_Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://the-wild-oasis-gold-eight.vercel.app)
 
 ## ✨ Features
 
