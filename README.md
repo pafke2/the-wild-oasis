@@ -58,8 +58,7 @@
 ## 🛠️ Технологический стек
 
 - **Frontend:** React, React Router
-  <<<<<<< HEAD
-- # **Управление состоянием и данными:** React Query (TanStack Query)
+- **Управление состоянием и данными:** React Query (TanStack Query)
 - **Управление стэйтом и данными:** React Query (TanStack Query)
 - **Работа с формами:** React Hook Form
 - **Стилизация:** Styled Components, CSS Variables
