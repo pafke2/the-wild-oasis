@@ -138,14 +138,15 @@ function Uploader() {
         gap: "8px",
       }}
     >
-      <h3>SAMPLE DATA</h3>
-
+      <h3>Demo DATA</h3>
+      {/* 
       <Button onClick={uploadAll} disabled={isLoading}>
         Upload ALL
-      </Button>
+      </Button> */}
 
       <Button onClick={uploadBookings} disabled={isLoading}>
-        Upload bookings ONLY
+        Upload bookings (If no stats shown for Today, please click once to
+        upload bookings)
       </Button>
     </div>
   );
