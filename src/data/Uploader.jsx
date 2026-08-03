@@ -145,8 +145,10 @@ function Uploader() {
       </Button> */}
 
       <Button onClick={uploadBookings} disabled={isLoading}>
-        Upload bookings (If no stats shown for Today, please click once to
-        upload bookings)
+        {!isLoading
+          ? `Upload bookings (If no stats shown for Today, please click once to
+        upload bookings)`
+          : "Uploading bookings"}
       </Button>
     </div>
   );
