@@ -8,7 +8,12 @@
 
 ### About
 
-**The Wild Oasis** is a modern web app built for hotel staff to manage bookings, cabins, and serving guests, while also tracking revenue and occupancy analytics.
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > d53a9873fced69c33cdda7730de3179e0a865f41
+> > > > > > > **The Wild Oasis** is a modern web app built for hotel staff to manage bookings, cabins, and serving guests, while also tracking revenue and occupancy analytics.
 
 ## 🚀 Live Demo
 
@@ -35,15 +40,28 @@
 
 ---
 
+<<<<<<< HEAD
+
 <a name="русский"></a>
 
 ### О проекте
 
-**The Wild Oasis** — это современное веб-приложение, созданное для персонала отеля. Оно позволяет управлять бронированиями, и обслуживанием гостей, а также отслеживать аналитику доходов и загрузки отеля.
+=======
+<a name="русский"></a>
+
+### О проекте
+
+> > > > > > > d53a9873fced69c33cdda7730de3179e0a865f41
+> > > > > > > **The Wild Oasis** — это современное веб-приложение, созданное для персонала отеля. Оно позволяет управлять бронированиями, и обслуживанием гостей, а также отслеживать аналитику доходов и загрузки отеля.
 
 ## 🚀 Демо
 
 - **Демо-версия:** [https://the-wild-oasis-gold-eight.vercel.app ↗️](https://the-wild-oasis-gold-eight.vercel.app)
+  <<<<<<< HEAD
+
+=======
+
+> > > > > > > d53a9873fced69c33cdda7730de3179e0a865f41
 
 ## ✨ Функциональность
 
@@ -58,7 +76,10 @@
 ## 🛠️ Технологический стек
 
 - **Frontend:** React, React Router
-- **Управление состоянием и данными:** React Query (TanStack Query)
+  <<<<<<< HEAD
+- # **Управление состоянием и данными:** React Query (TanStack Query)
+- **Управление стэйтом и данными:** React Query (TanStack Query)
+  > > > > > > > d53a9873fced69c33cdda7730de3179e0a865f41
 - **Работа с формами:** React Hook Form
 - **Стилизация:** Styled Components, CSS Variables
 - **Backend и авторизация:** Supabase (PostgreSQL, Auth, Storage buckets)
