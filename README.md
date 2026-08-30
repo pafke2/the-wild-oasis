@@ -1,10 +1,6 @@
 # 🏝️ The Wild Oasis — Hotel Management Dashboard
 
-> **Language / Язык:** [English](#english) | [Русский](#русский)
-
 ---
-
-<a name="english"></a>
 
 ### About
 
@@ -33,34 +29,27 @@
 - **Backend & Authorization:** Supabase (PostgreSQL, Auth, Storage buckets)
 - **Charts & UI Feedback:** Recharts, React Icons, React Hot Toast
 
+### Installation & Local Development
+
+```bash
+# Clone the repository
+git clone [https://github.com/pafke2/the-wild-oasis.git](https://github.com/pafke2/the-wild-oasis.git)
+
+# Install dependencies
+npm install
+
+# Set up environment variables, create a .env.local file in the root directory of the project and add your Supabase credentials:
+VITE_SUPABASE_URL=your-supabase-url
+VITE_SUPABASE_KEY=your-supabase-anon-key
+
+# Start the local development server
+npm run dev
+```
+
+Open your browser and navigate to [http://localhost:5173](http://localhost:5173) with your browser to see the application (or the port shown in your terminal).
+
 ---
 
-<a name="русский"></a>
+## 📄 License
 
-### О проекте
-
-**The Wild Oasis** — это современное веб-приложение, созданное для персонала отеля. Оно позволяет управлять бронированиями, и обслуживанием гостей, а также отслеживать аналитику доходов и загрузки отеля.
-
-## 🚀 Демо
-
-- **Демо-версия:** [https://the-wild-oasis-gold-eight.vercel.app ↗️](https://the-wild-oasis-gold-eight.vercel.app)
-
-## ✨ Функциональность
-
-- 🔐 **Аутентификация и профиль:** Безопасная авторизация для сотрудников, редактирование профиля (аватар, имя, пароль).
-- 📊 **Панель управления и аналитика:** Интерактивные графики продаж, продолжительность проживания и статистика бронирований за последние 7, 30 или 90 дней.
-- 📅 **Управление бронированиями:**
-  - Фильтрация и сортировка.
-  - Регистрация заезда (Check-in) и выезда (Check-out) гостей.
-  - Обновление статуса оплаты и опция добавления завтрака.
-- 🌙 **Тёмная тема:** Полноценный тёмный режим.
-
-## 🛠️ Технологический стек
-
-- **Frontend:** React, React Router
-- **Управление состоянием и данными:** React Query (TanStack Query)
-- **Управление стэйтом и данными:** React Query (TanStack Query)
-- **Работа с формами:** React Hook Form
-- **Стилизация:** Styled Components, CSS Variables
-- **Backend и авторизация:** Supabase (PostgreSQL, Auth, Storage buckets)
-- **Графики и уведомления:** Recharts, React Icons, React Hot Toast
+This project is licensed under the MIT License — feel free to modify and use it for learning or personal projects!
